@@ -1,0 +1,26 @@
+body {
+	background: #25C1FF;
+	font-family: Arial, sans-serif;
+	font-size:20px;
+	text-align: center;
+}
+
+h1{
+	font-weight:bold;
+	font-size:30px;
+	color: #141C8A;
+	text-align: center;
+}
+p {
+	color: #fff;
+}
+hr {
+	width: 750px;
+}
+#slogan {
+	font-style: italic;
+}
+.features {
+	color: #141C8A;
+	text-align: left;
+}
