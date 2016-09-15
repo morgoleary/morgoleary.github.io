@@ -1,0 +1,42 @@
+@import 'https://fonts.googleapis.com/css?family=Bree+Serif|Roboto+Condensed';
+
+
+body {
+	background: #25C1FF;
+	font-family: Arial, sans-serif;
+	font-size:20px;
+	text-align: center;
+}
+
+h1{
+	font-weight:bold;
+	font-size:40px;
+	color: #141C8A;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+}
+h2{
+	font-weight:bold;
+	font-size:30px;
+	color: #fff;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+}
+p {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+}
+hr {
+	width: 750px;
+	color: #141C8A;
+}
+#slogan {
+	font-style: italic;
+	font-family: 'Bree Serif', serif;
+}
+.features {
+	color: #141C8A;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+}
